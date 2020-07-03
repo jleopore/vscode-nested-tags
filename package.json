@@ -55,6 +55,7 @@
   "dependencies": {
     "debounce": "^1.2.0",
     "gray-matter": "4.0.2"
+    "toml": "^2.3.3"
   },
   "activationEvents": [
     "onView:tagTreeView"
